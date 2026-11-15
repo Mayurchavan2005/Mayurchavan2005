@@ -1,16 +1,16 @@
-## Hi there 👋
+# Mayur Chavan
 
-<!--
-**Mayurchavan2005/Mayurchavan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small tools that solve real problems. Most of my work is in Python — things I actually use, like a PC health checker that explains problems in plain English.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [PC Doctor](https://github.com/Mayurchavan2005/pc-doctor) — checks why a PC is slow and explains it in plain English, with a health score and safe temp cleanup.
+
+## What I'm doing now
+
+- Building Python portfolio projects
+- Making short IT videos as [@vibe.coderr_](https://instagram.com/vibe.coderr_) on Instagram and YouTube
+
+## Find me
+
+- Instagram: [@vibe.coderr_](https://instagram.com/vibe.coderr_)
