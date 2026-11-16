@@ -5,6 +5,8 @@ I build small tools that solve real problems. Most of my work is in Python — t
 ## Projects
 
 - [PC Doctor](https://github.com/Mayurchavan2005/pc-doctor) — checks why a PC is slow and explains it in plain English, with a health score and safe temp cleanup.
+- [Habit Streak Tracker](https://github.com/Mayurchavan2005/habit-streak-tracker) — tracks daily habits and counts streaks, with one grace day a week.
+- [File Organizer](https://github.com/Mayurchavan2005/file-organizer) — sorts a messy folder into sub-folders by file type, with dry-run and undo.
 
 ## Publications
 
